@@ -2,7 +2,7 @@
 
 **📊 Zara SALES DASHBOARD**
 
-This Power BI dashboard provides a comprehensive overview of key sales metrics and insights for Akshay's e-commerce business. It combines various visuals and KPIs to help stakeholders monitor sales performance, customer trends, profitability, and product category distribution at a glance.
+The Zara Sales Dashboard is a data visualization tool that provides insights into sales performance, customer trends, and product analysis for Zara stores. It helps stakeholders make data-driven decisions by presenting key metrics in an interactive and easy-to-understand format.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
