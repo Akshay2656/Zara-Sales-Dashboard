@@ -23,5 +23,7 @@ The dashboard was built using the following tools and technologies:
 
 
 **Dashboard**
+
+
 <img width="825" height="475" alt="Snapshot of Zara Sales Dashboard" src="https://github.com/user-attachments/assets/63ff537e-1f65-4a97-9515-412f244b3e08" />
 
