@@ -21,6 +21,8 @@ The dashboard was built using the following tools and technologies:
 
 📂 File Format: .pbix for development and .png for dashboard previews.
 
+---------------------------------------------------------------------------------
+
 
 **Dashboard**
 
